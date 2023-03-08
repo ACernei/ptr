@@ -5,4 +5,4 @@
 ### Author: _Cernei Andrei_
 ----
 
-* [P0](./p0/)
+* [Project 0](./p0/)

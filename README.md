@@ -7,3 +7,4 @@
 
 * [Project 0](./p0/)
 * [Project 1](./p1/)
+* [Project 2](./p2/)
